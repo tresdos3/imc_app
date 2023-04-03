@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">imc_app</string>
+    <string name="str_male">Hombre</string>
+    <string name="str_female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="height_start">120 cm</string>
+    <string name="vector_male">Vector male</string>
+    <string name="vector_female">Vector female</string>
+    <string name="slider_for_height">Slider for height</string>
+    <string name="weight">Peso</string>
+    <string name="weight_initial">60</string>
+    <string name="age">Edad</string>
+    <string name="age_initial">18</string>
+    <string name="calculate">Calcular</string>
+    <string name="your_result">Tu resultado</string>
+    <string name="recalculate">Recalcular</string>
+    <string name="aux_text">Normal</string>
+    <string name="error">Error</string>
+    
+    <string name="under_weight">Bajo peso</string>
+    <string name="under_weight_desc">Esta por debajp de lo optimo para tu peso y altura</string>
+
+    <string name="under_normal">Normal</string>
+    <string name="under_normal_desc">Esta con el pero optimo para su peso y altura</string>
+
+    <string name="under_overweight">Sobrepeso</string>
+    <string name="under_overweight_desc">Esta con un peso un poco fuera de normal</string>
+
+    <string name="under_obesity">Obeso</string>
+    <string name="under_obesity_desc">Estas muy por encima de lo normal te recomiendo ir a consultar con medico</string>
+
+</resources>
